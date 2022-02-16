@@ -1,0 +1,37 @@
+Link para download do Git for Windows: https://git-scm.com/download/win
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Interface:
+GUI (Gráfico) X CLI (Comando)
+
+## Comandos Windows:
+Atalho Windows 
+Cmd
+dir (diretório na pasta)
+cd (navegar na pasta: change direct)
+mv (mover)
+cls (clear screen)
+tab (auto completar o nome da pasta/arquivo)
+mkdir (criar novo diretório)
+echo (se existe alguma pasta com nome)
+se não, echo > (para criar um arquivo com esse nome)
+.. (voltar a pasta anterior)
+del (somente deleta arquivos)
+seta p/cima (voltar p/ comando anterior)
+rm dir /S /Q (deleta pasta)
+ls (listar)
+pwd (mostra o caminho onde está)
+
+
+-> SHA1 (conjunto de 40 caracteres identificador de arquivo - criptografar) para cada alteração é gerado um novo SHA1
+-> Blobs (bolhas)
+-> Trees (armazena blobs, responsável por montar toda estrutura de onde estão localizados os Arquivos)
+SHA1 + NOME DO ARQUIVO 
+
+Exemplo Commit:
+Tree - S4a5sq1
+Parente - a98acq1
+Autor - Ananda
+Mensagem "inicia..."
+timestamp 
